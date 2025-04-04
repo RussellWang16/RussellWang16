@@ -1,21 +1,16 @@
-## Hi there 👋, I am Russell Wang
-I am an aspiring data analyst with a bachelor’s in mathematics from Stony Brook University, eager to use my analytical skills to answer any data-driven questions that support impactful decision-making. <br><br>
-My technical skills include writing complex SQL queries, data cleaning using Excel, conducting statistical knowledge for analysis with R and Python, and developing dashboards using Power BI and Tableau. My soft skills include multitasking, simplifying complex concepts for better understanding, and collaborating with peers to achieve success. I work great in a fast-paced environment, and I enjoy pushing myself beyond limits. I look forward to the next stage in my career.
+### Hi there 👋, I am Russell Wang
+#### Data Analyst
+I am an aspiring data analyst with a bachelor’s in mathematics from Stony Brook University, eager to use my analytical skills to answer any data-driven questions that support impactful decision-making. <br>
+My technical skills include writing complex SQL queries, data cleaning using Excel, conducting statistical knowledge for analysis with R and Python, and developing dashboards using Power BI and Tableau. My soft skills include multitasking, simplifying complex concepts for better understanding, and collaborating with peers to achieve success. I work great in a fast-paced environment, and I enjoy pushing myself beyond my limits. I look forward to the next stage in my career.
 
-Most Used Languages<br />
-![RussellWang16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RussellWang16&theme=dark&show_icons=true&hide_border=true&layout=compact)
-<!--
-**RussellWang16/RussellWang16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Excel / SQL / Python / R / Power BI / Tableau
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on using Python for statistical analysis on the New York Housing Market 
+- 🌱 I’m currently learning Azure Data Factory 
+- 📫 How to reach me: russellwang16@gmail.com 
+- ⚡ Fun fact: I enjoy working out and running in my free time. My current 5K time is 24:43, and my total SBD (Squat, Bench, Deadlift) is 1035 lbs. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
-I enjoy 
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RussellWang16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/russell-wang-72c/)  
+
+Most Used Languages<br /> ![RussellWang16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RussellWang16&theme=dark&show_icons=true&hide_border=true&layout=compact)
