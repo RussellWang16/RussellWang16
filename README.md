@@ -3,7 +3,8 @@
 I am an aspiring data analyst with a bachelor’s in mathematics from Stony Brook University, eager to use my analytical skills to answer any data-driven questions that support impactful decision-making. <br>
 My technical skills include writing complex SQL queries, data cleaning using Excel, conducting statistical knowledge for analysis with R and Python, and developing dashboards using Power BI and Tableau. My soft skills include multitasking, simplifying complex concepts for better understanding, and collaborating with peers to achieve success. I work great in a fast-paced environment, and I enjoy pushing myself beyond my limits. I look forward to the next stage in my career.
 
-Skills: Excel / SQL / Python / R / Power BI / Tableau
+## Skills
+Excel / SQL / Python / R / Power BI / Tableau
 
 - 🔭 I’m currently working on using Python for statistical analysis on the New York Housing Market 
 - 🌱 I’m currently learning Azure Data Factory 
