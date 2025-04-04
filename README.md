@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Russell Wang
 
 <!--
 **RussellWang16/RussellWang16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
