@@ -1,6 +1,7 @@
 ## Hi there 👋, I am Russell Wang
 I am an aspiring data analyst with a bachelor’s in mathematics from Stony Brook University, eager to use my analytical skills to answer any data-driven questions that support impactful decision-making.
 
+Most Used Languages
 ![RussellWang16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RussellWang16&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **RussellWang16/RussellWang16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
