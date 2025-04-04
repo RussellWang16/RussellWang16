@@ -1,5 +1,6 @@
 ## Hi there 👋, I am Russell Wang
-I am an aspiring data analyst with a bachelor’s in mathematics from Stony Brook University, eager to use my analytical skills to answer any data-driven questions that support impactful decision-making.
+I am an aspiring data analyst with a bachelor’s in mathematics from Stony Brook University, eager to use my analytical skills to answer any data-driven questions that support impactful decision-making. 
+My technical skills include writing complex SQL queries, data cleaning using Excel, conducting statistical knowledge for analysis with R and Python, and developing dashboards using Power BI and Tableau. My soft skills include multitasking, simplifying complex concepts for better understanding, and collaborating with peers to achieve success. I work great in a fast-paced environment and I enjoy pushing myself beyond limits. I look forward to the next stage in my career.
 
 Most Used Languages<br />
 ![RussellWang16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RussellWang16&theme=dark&show_icons=true&hide_border=true&layout=compact)
@@ -15,5 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+I enjoy 
 -->
