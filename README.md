@@ -4,7 +4,7 @@ I am an aspiring data analyst with a bachelor’s in mathematics from Stony Broo
 My technical skills include writing complex SQL queries, data cleaning using Excel, conducting statistical knowledge for analysis with R and Python, and developing dashboards using Power BI and Tableau. My soft skills include multitasking, simplifying complex concepts for better understanding, and collaborating with peers to achieve success. I work great in a fast-paced environment, and I enjoy pushing myself beyond my limits. I look forward to the next stage in my career.
 
 ## Skills 💻
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,mysql,postgresql,sqlserver,python,numpy,pandas,seaborn,scikitlearn,scipy,powerbi,&perline=10)![image](https://github.com/user-attachments/assets/e8e81c3d-f959-4e57-b36f-186c401aafe8)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,mysql,postgresql,sqlserver,python,numpy,pandas,seaborn,scikitlearn,scipy,powerbi,&perline=10)
 
 
 
