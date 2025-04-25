@@ -12,7 +12,7 @@ My technical skills include writing complex SQL queries, data cleaning using Exc
 - 📝 I’m currently working on using Python for statistical analysis on the New York Housing Market 
 - 🧠 I’m currently learning Azure Data Factory 
 - 📫 How to reach me: russellwang16@gmail.com 
-- ⚡ Fun fact: I enjoy working out and running in my free time. My current 5K time is 24:43, and my total SBD (Squat, Bench, Deadlift) is 1035 lbs. 
+- ⚡ Fun fact: I enjoy working out and running in my free time. My current 5K time is 24:43, and my total SBD (Squat, Bench, Deadlift) is 1075 lbs. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RussellWang16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/russell-wang-72c/)  
